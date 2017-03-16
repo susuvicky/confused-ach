@@ -1,0 +1,3 @@
+- 利用百度上传插件webupload(http://fex.baidu.com/)实现分配上传
+- 纯H5上传不支持MD5解析
+- upload 文件只是思路分析
